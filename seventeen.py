@@ -6,6 +6,6 @@ while a>0:
 	sum=sum+c*c*c
 	a=a//10
 if b==sum:
-	print("amstrong no")
+	print("yes")
 else:
-	print("not amstrong no")
+	print("no")
