@@ -1,3 +1,3 @@
-a=input()
-b='.'
-print(a+b)
+x=input()
+y='.'
+print(x+y)
