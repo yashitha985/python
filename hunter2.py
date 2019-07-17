@@ -1,5 +1,5 @@
-y=int(input())
-z=list(map(int,input.split()))
-z.sort(reverse=True)
-for i in range(len(z)):
-		print(z[i],end='')
+x=int(input())
+y=list(input().split())
+y.sort()
+y.reverse())
+print("".join(y)
