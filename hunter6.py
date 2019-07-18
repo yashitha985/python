@@ -1,7 +1,7 @@
 a=int(input())
 b=list(map(int,input().split()))
 c=[]
-m=0
+d=0
 for i in b:
   if (b.count(i)>1):
     if i not in c:
